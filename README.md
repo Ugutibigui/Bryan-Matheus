@@ -1,4 +1,6 @@
-👋 Hi, I'm Bryan Matheus
-👀 I'm interested in internships in the IT area.
-💻 I have knowledge in CSharp, C++, JavaScript and some frameworks like Angular and React Native.
-📫 How to reach me: ugutibigui@gmail.com
+<ul>
+  <li>👋 Hi, I'm Bryan Matheus</li>
+  <li>👀 I'm interested in internships in the IT area.</li>
+  <li>💻 I have knowledge in CSharp, C++, JavaScript and some frameworks like Angular and React Native.</li>
+  <li>📫 How to reach me: ugutibigui@gmail.com</li>
+</ul>
